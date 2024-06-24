@@ -1,0 +1,19 @@
+{
+  "canisters": {
+    "bootcamp_frontend": {
+      "source": [
+        "src/bootcamp_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "bootcamp_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
