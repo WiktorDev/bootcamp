@@ -1,0 +1,5 @@
+service : {
+    "greet": (text, int8) -> (text) query;
+    "add_item": (text) -> ();
+    "read_items": () -> (vec text) query;
+}
